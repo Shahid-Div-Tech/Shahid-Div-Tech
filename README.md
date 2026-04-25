@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am funny😊**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahid-ahmed-76a572384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid-ahmed-76a572384" height="30" width="40" /></a>
 <a href="https://fb.com/shahid ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahid ahmed" height="30" width="40" /></a>
