@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Shahid-Div-Tech/Shahid-Div-Tech/main/banner.jpeg)
+![logo](https://raw.githubusercontent.com/Shahid-Div-Tech/Shahid-Div-Tech/main/img-banner.png)
 
 <h1 align="center">Hi 👋, I'm Shahid Ahmed</h1>
 <h3 align="center">Learning web development in Pakistan, and continuously expanding my expertise. </h3>
